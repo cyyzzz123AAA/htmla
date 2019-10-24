@@ -1,0 +1,19 @@
+1.  语义化的主要目的就是让大家直观的认识标签(markup)和属性(attribute)的用途和作用
+
+    首字母缩写  背景音乐  放大字体big  滚动字幕
+
+2.便签自带的样式不一定合适，需要重新就行编写  
+
+因此需要将默认的样式去掉，然后重新添加新的样式，所以必须将样式初始化处理
+
+3.字体系列属性  文本系列属性  表格布局属性  列表布局属性
+
+4.:link :visited :hover :active
+
+5.position: 1.relative 2.absolute 3.fixed 4.static
+
+6.*   /0   !important
+
+7.火狐：gecko     IE：trident   谷歌：websit
+
+
